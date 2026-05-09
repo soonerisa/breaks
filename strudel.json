@@ -1,17 +1,4 @@
 {
   "_base": "https://raw.githubusercontent.com/soonerisa/breaks/main/",
-  "breaks": [
-    "11.wav",
-    "14.wav",
-    "15.wav",
-    "3.wav",
-    "DJ Gunshot.wav",
-    "Intelligent Junglist.wav",
-    "above the clouds remix.wav",
-    "calling all the people remix.wav",
-    "champion sound.wav",
-    "fliynq remix.wav",
-    "flying remix 2.wav",
-    "smoking a blunt.wav"
-  ]
+  "breaks": ["11.wav","14.wav","15.wav","3.wav","DJ Gunshot.wav","Intelligent Junglist.wav","above the clouds remix.wav","calling all the people remix.wav","champion sound.wav","fliynq remix.wav","flying remix 2.wav","smoking a blunt.wav"]
 }
